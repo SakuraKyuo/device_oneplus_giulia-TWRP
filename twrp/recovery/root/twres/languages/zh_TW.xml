@@ -33,7 +33,7 @@
 		<string name="autostorage">儲存空間</string>
 
 		<!-- GUI XML strings -->
-		<string name="twrp_header">TWRP For Oneplus Ace 3 Pro</string>
+		<string name="twrp_header">TWRP For Oneplus Ace 5</string>
 		<string name="twrp_watch_header">TWRP %tw_version%</string>
 		<string name="cpu_temp">溫度: %tw_cpu_temp% &#xB0;C</string>
 		<string name="battery_pct">電量: %tw_battery%</string>

@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-DEVICE_PATH := device/oneplus/corvette
+DEVICE_PATH := device/oneplus/giulia
 
 # SDK
 BOARD_SYSTEMSDK_VERSIONS := 31
@@ -90,7 +90,7 @@ BOARD_RECOVERYIMAGE_PARTITION_SIZE := 104857600
 TARGET_COPY_OUT_VENDOR := vendor
 
 # OTA
-TARGET_OTA_ASSERT_DEVICE := corvette
+TARGET_OTA_ASSERT_DEVICE := giulia
 
 # Rules
 BUILD_BROKEN_DUP_RULES := true

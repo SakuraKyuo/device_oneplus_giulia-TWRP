@@ -1,6 +1,8 @@
-#  Device Tree for Oneplus Ace 3 Pro (corvette)
+#  Device Tree for Oneplus Ace 5 (giulia)
 
 ## Spec Sheet
+
+### Wait for update
 
 | Feature                 | Specification                                                              |
 | :---------------------- | :--------------------------------                                          |
